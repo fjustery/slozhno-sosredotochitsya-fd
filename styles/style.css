@@ -264,7 +264,7 @@
 
   .gallery__list {
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 96fr 115fr 169fr;
+    grid-template-rows: 96fr 115fr 160fr;
     aspect-ratio: 1 / 1.069;
   }
 

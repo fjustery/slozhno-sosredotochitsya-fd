@@ -6,11 +6,16 @@
   box-sizing: border-box;
 }
 
-body {
+.page {
   min-inline-size: 375px;
   max-inline-size: 1440px;
   margin: 0 auto;
   font-family: var(--main-font-family);
+  background-color: var(--main-background-color);
+  background-image: var(--main-background-image);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 h1,

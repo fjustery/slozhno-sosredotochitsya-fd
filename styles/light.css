@@ -9,7 +9,7 @@
     url('../images/cover-image-light.webp') type('image/webp'),
     url('../images/cover-image-light.png') type('image/png')
   );
-  --main-background-color: #ffc2e6;
+  --main-background-color: #fff1f7;
   --accent-color: #ff8dcb;
   --header-heading-color: #ffc2e6;
   --corner-color: #353430;
@@ -25,7 +25,7 @@
       url('../images/cover-image-light.webp') type('image/webp'),
       url('../images/cover-image-light.png') type('image/png')
     );
-    --main-background-color: #ffc2e6;
+    --main-background-color: #fff1f7;
     --accent-color: #ff8dcb;
     --header-heading-color: #ffc2e6;
     --corner-color: #353430;
