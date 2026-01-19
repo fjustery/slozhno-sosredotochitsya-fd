@@ -42,9 +42,7 @@
 .header__title {
   justify-self: end;
   align-self: center;
-  font-size: var(--main-font-size);
-  line-height: var(--main-line-height);
-  inline-size: max(355px, 47.8vw);
+  inline-size: max(355px, 47.7vw);
 }
 
 .header__theme-menu-list {
@@ -58,7 +56,6 @@
   padding-inline: 13px;
   color: var(--theme-buttons-color);
   font-weight: normal;
-  font-size: var(--main-font-size);
   font-size: var(--main-font-size);
   line-height: var(--main-line-height);
   background-color: transparent;
