@@ -18,3 +18,7 @@
   --content-section-heading-color: #ff0070;
   --theme-buttons-color: #ff0070;
 }
+
+.theme-dark .header__decorative-element {
+  display: block;
+}
