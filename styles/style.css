@@ -59,6 +59,7 @@
   font-size: var(--main-font-size);
   line-height: var(--main-line-height);
   background-color: transparent;
+  cursor: pointer;
 }
 
 .header__theme-menu-button_active {
